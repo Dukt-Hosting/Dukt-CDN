@@ -1,0 +1,25 @@
+{
+  "name": "dukt-cdn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dukt-Hosting/Dukt-CDN.git"
+  },
+  "author": "Dukt Hosting",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Dukt-Hosting/Dukt-CDN/issues"
+  },
+  "homepage": "https://github.com/Dukt-Hosting/Dukt-CDN#readme"
+}
